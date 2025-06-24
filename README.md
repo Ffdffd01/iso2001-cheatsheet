@@ -38,7 +38,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 ## 🔹 Clause 3 – Terms and Definitions  
 > Use definitions from ISO/IEC 27000 to understand core concepts like risk, threat, asset, and control.
-(https://github.com/user-attachments/assets/904aa7c4-e3a0-4bbe-8cb2-29fef9039776)
+![clause 3](https://github.com/user-attachments/assets/904aa7c4-e3a0-4bbe-8cb2-29fef9039776)
 
 ---
 
@@ -48,7 +48,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **4.2**: Identify interested parties and their information security expectations  
 - **4.3**: Define the ISMS scope  
 - **4.4**: Establish, implement, maintain, and improve the ISMS
-(https://github.com/user-attachments/assets/bfba108c-9c8d-4b57-a278-cf6e3daa4fd5)
+![clause 4](https://github.com/user-attachments/assets/bfba108c-9c8d-4b57-a278-cf6e3daa4fd5)
 
 ---
 
