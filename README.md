@@ -24,7 +24,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 - **0.1 – General**: ISO 27001 protects Confidentiality, Integrity, and Availability (CIA) of information through a structured ISMS and risk-based approach.
 - **0.2 – Compatibility**: Built using the High-Level Structure (HLS) to integrate with other standards like ISO 9001, ISO 14001, etc.
-<p> ![1](https://github.com/user-attachments/assets/ccdd435f-c685-46da-9f6a-02fe6c672b0a) </p>
+<p> ![Clause 0 - Intro](https://github.com/user-attachments/assets/ccdd435f-c685-46da-9f6a-02fe6c672b0a) </p>
 
 ---
 
@@ -33,12 +33,12 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 ## 🔹 Clause 2 – Normative References  
 > ISO/IEC 27000 is the only normative reference and defines key terms used across the ISO 27000 family.
-<p>![2](https://github.com/user-attachments/assets/984c3259-e8ef-46f5-989b-2915421271ae)
+<p>![Clause 1&2](https://github.com/user-attachments/assets/984c3259-e8ef-46f5-989b-2915421271ae)
 </p>
 
 ## 🔹 Clause 3 – Terms and Definitions  
 > Use definitions from ISO/IEC 27000 to understand core concepts like risk, threat, asset, and control.
-<p>![3](https://github.com/user-attachments/assets/904aa7c4-e3a0-4bbe-8cb2-29fef9039776)
+<p>![Clause 3](https://github.com/user-attachments/assets/904aa7c4-e3a0-4bbe-8cb2-29fef9039776)
 </p>
 ---
 
