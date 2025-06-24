@@ -24,7 +24,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 - **0.1 – General**: ISO 27001 protects Confidentiality, Integrity, and Availability (CIA) of information through a structured ISMS and risk-based approach.
 - **0.2 – Compatibility**: Built using the High-Level Structure (HLS) to integrate with other standards like ISO 9001, ISO 14001, etc.
-<p> ![Clause 0 - Intro](https://github.com/user-attachments/assets/ccdd435f-c685-46da-9f6a-02fe6c672b0a) </p>
+<p> ![alt text](https://github.com/user-attachments/assets/ccdd435f-c685-46da-9f6a-02fe6c672b0a) </p>
 
 ---
 
