@@ -33,7 +33,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 ## 🔹 Clause 2 – Normative References  
 > ISO/IEC 27000 is the only normative reference and defines key terms used across the ISO 27000 family.
-(https://github.com/user-attachments/assets/984c3259-e8ef-46f5-989b-2915421271ae)
+![clause 1and2](https://github.com/user-attachments/assets/984c3259-e8ef-46f5-989b-2915421271ae)
 
 
 ## 🔹 Clause 3 – Terms and Definitions  
