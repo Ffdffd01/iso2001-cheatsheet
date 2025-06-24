@@ -57,7 +57,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **5.1**: Top management must support and integrate the ISMS into the business  
 - **5.2**: Establish an information security policy aligned with objectives  
 - **5.3**: Define roles, responsibilities, and authorities
-(https://github.com/user-attachments/assets/2481ba25-b57d-4767-9a82-765ac5b877e1)
+![clause 5](https://github.com/user-attachments/assets/2481ba25-b57d-4767-9a82-765ac5b877e1)
 
 ---
 
@@ -68,7 +68,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **6.1.3**: Apply risk treatment and define control measures  
 - **6.2**: Set measurable objectives aligned with the security policy  
 - **6.3**: Plan changes to the ISMS effectively
-(https://github.com/user-attachments/assets/b1c9c056-ef45-42ac-a9f9-8504ccb5cd67)
+![clause 6](https://github.com/user-attachments/assets/b1c9c056-ef45-42ac-a9f9-8504ccb5cd67)
 
 ---
 
@@ -79,7 +79,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **7.3**: Raise awareness of responsibilities and policy consequences  
 - **7.4**: Ensure effective communication (internal & external)  
 - **7.5.1 - 7.5.3**: Document and control ISMS information (creation, updates, access control)
-(https://github.com/user-attachments/assets/174a2954-b919-4866-8766-2f3d3ec9ddb3)
+![clause 7](https://github.com/user-attachments/assets/174a2954-b919-4866-8766-2f3d3ec9ddb3)
 
 ---
 
@@ -88,7 +88,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **8.1**: Implement risk treatment plans and operational controls  
 - **8.2**: Conduct regular risk assessments  
 - **8.3**: Apply and document treatment actions with approval records
-(https://github.com/user-attachments/assets/ef541780-4112-4aba-a16b-83f119d68557)
+![clause 8](https://github.com/user-attachments/assets/ef541780-4112-4aba-a16b-83f119d68557)
 
 ---
 
@@ -100,7 +100,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 - **9.3.1**: Top management reviews ISMS suitability and effectiveness  
 - **9.3.2**: Evaluate inputs like audits, risk, and objectives  
 - **9.3.3**: Document outputs and decisions from the review
-(https://github.com/user-attachments/assets/a02e4895-2ea3-42dc-b655-17b16f854d4e)
+![clause 9](https://github.com/user-attachments/assets/a02e4895-2ea3-42dc-b655-17b16f854d4e)
 
 ---
 
@@ -108,7 +108,7 @@ This repository provides a simplified, clause-by-clause breakdown of **ISO/IEC 2
 
 - **10.1**: Seek continual improvement of the ISMS  
 - **10.2**: Address nonconformities through corrective actions and root cause analysis, and document everything
-(https://github.com/user-attachments/assets/f90610d1-73b7-48d4-b6f5-5aff8a0d1069)
+![clause 10](https://github.com/user-attachments/assets/f90610d1-73b7-48d4-b6f5-5aff8a0d1069)
 
 ---
 
